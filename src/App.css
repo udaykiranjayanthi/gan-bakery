@@ -4,6 +4,19 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.min-h-screen{
+    min-height: calc(100vh - 102px);
+}
+
+.footer{
+    background-color: #fc035e;
+    color: white;
+    font-size: 14px;
+    height: auto;
+    padding: 4px 0px;
+    font-weight: 600;
+}
+
 .navbar-dark .navbar-nav .nav-link{
     color: rgba(255, 255, 255, 0.7);
     font-weight: 500;
